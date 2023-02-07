@@ -6,15 +6,17 @@ Aplicativo voltado para o acompanhamento das Exchanges de Crypto. Todas as infor
 
 Na Home do App é exibido uma lista de todas as exchanges.
 
+<img src="Screenshots/home.png" width="40%">
 
 ## Tela de Detalhe
 
 Quando é selecionado alguma exchange na tela de Home, é direcionado para a tela que apresenta mais detalhes daquela exchange, em que é permitido acessar o seu website
 
-
+<img src="Screenshots/detail.png" width="40%">
 
 ## Launch Screen
 
+<img src="Screenshots/launch.png" width="40%">
 
 ## Gerenciador de Dependências
 
